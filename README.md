@@ -2,7 +2,7 @@
 
 ## I'm an aspiring Junior Developer (I think..), Father (that's 97% sure), Wellness Enthusiast, and even though I never play anything, a hardcore Gamer!!
 
-- 🌱 I’m currently learning everything since June of 2020
+- 🌱 I’m currently self-learning everything since June of 2020
 - 👀 I’m interested in, getting to the moon ASAP 
 - 👯 I’m looking to collaborate with other developers to improve my skills
 - 🥅 2021 Goals: Land my first developer related job
