@@ -49,6 +49,6 @@
 
 
 [twitter]: https://twitter.com/Cudi7r
-[linkedin]: www.linkedin.com/in/cudi7
+[linkedin]: https://www.linkedin.com/in/cudi7
 [gmail]: codinaroger2@gmail.com
 
