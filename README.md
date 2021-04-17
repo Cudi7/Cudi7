@@ -1,6 +1,6 @@
 ### Hi there, I'm Roger Codina - better known as Cudi 👋
 
-## I'm an aspiring Junior Developer (I think..), Father (that's 97% sure), Wellness Enthusiast, and even though I never play anything, a hardcore Gamer!!
+## I'm an aspiring Junior Web Developer (I think..), Father (that's 97% sure), Wellness Enthusiast, and even though I never play anything, a hardcore Gamer!!
 
 - 🌱 I’m currently self-learning everything since June of 2020
 - 👀 I’m interested in, getting to the moon ASAP 
