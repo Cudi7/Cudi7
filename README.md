@@ -39,6 +39,10 @@
 
 * I also made some beginner projects with Java, PostgreSQL and MySQL.
 
+#### Currently Learning:
+
+* All of the above, plus PHP, NextJs and Typescript
+
 
 <br />
 <br />
