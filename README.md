@@ -37,7 +37,7 @@
 
 * <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> GIT IT?
 
-* I also made some beginner projects with Java, PostgreSQL and MySQL.
+* I also made some beginner projects with Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
 
 #### Currently Learning:
 
