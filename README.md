@@ -17,6 +17,10 @@
 
 <br />
 
+#### Currently Learning:
+
+* Everything below, plus PHP, NextJs and Typescript
+
 ### Languages and Tools:
 
 * <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code
@@ -39,9 +43,6 @@
 
 * I also made some beginner projects with Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
 
-#### Currently Learning:
-
-* All of the above, plus PHP, NextJs and Typescript
 
 
 <br />
