@@ -11,7 +11,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Cudi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] its here because it's cool, actually its been months since I last entered
+[<img align="left" alt="Cudi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] its here because it's cool, actually its been months since I last entered[twitter] 
 [<img align="left" alt="Cudi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Cudi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
