@@ -47,6 +47,8 @@ From here, sorry, no more fancy icons
 
 * Material-UI
 
+* Headless CMS like Strapi or Sanity
+
 * I also made some beginner projects with Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
 
 
