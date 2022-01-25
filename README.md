@@ -45,6 +45,8 @@
 
 From here, sorry, no more fancy icons
 
+* NextJs
+
 * Material-UI
 
 * Headless CMS like Strapi or Sanity
