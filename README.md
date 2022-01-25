@@ -21,7 +21,7 @@
 
 #### Currently Learning:
 
-* Everything below, plus PHP, NextJs and Typescript
+* Everything below, plus Typescript and React Native
 
 ### Languages and Tools:
 
