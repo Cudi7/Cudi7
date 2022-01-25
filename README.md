@@ -5,13 +5,13 @@
 - 🌱 I’m currently self-learning everything since June of 2020
 - 👀 I’m interested in getting to the moon ASAP 
 - 👯 I’m looking to collaborate with other developers to improve my skills
-- 🥅 2022 Goals: Land my second developer related job
+- 🥅 2022 Goals: Land a developer related job with an awesome learning experience project
 - ⚡ Fun fact: I love to play guitar (not that funny though)
 
 ### Connect with me:
 
 
-[<img align="left" alt="Cudi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Cudi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] its here because it's cool, actually its been months since I last entered
 [<img align="left" alt="Cudi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Cudi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
