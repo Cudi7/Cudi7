@@ -16,6 +16,8 @@
 [<img align="left" alt="Cudi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 <br />
+<br />
+<br />
 (about twitter... its here because it's cool, actually its been months since I last entered)
 
 #### Currently Learning:
