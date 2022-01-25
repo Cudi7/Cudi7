@@ -17,7 +17,6 @@
 
 <br />
 <br />
-<br />
 (about twitter... its here because it's cool, actually its been months since I last entered)
 
 #### Currently Learning:
