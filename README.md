@@ -43,6 +43,8 @@
 
 * <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /> GIT IT?
 
+* <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /> Wordpress
+
 From here, sorry, no more fancy icons
 
 * NextJs
@@ -50,8 +52,6 @@ From here, sorry, no more fancy icons
 * Material-UI
 
 * Headless CMS like Strapi or Sanity
-
-* Wordpress
 
 * I also made some beginner projects with Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
 
