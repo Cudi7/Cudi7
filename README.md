@@ -2,8 +2,7 @@
 
 ## I'm an aspiring Junior Web Developer (I think..), Father (that's 97% sure), Wellness Enthusiast, and even though I never play anything, a hardcore Gamer!!
 
-- 🌱 I’m currently self-learning everything since June of 2020
-- 👀 I’m interested in getting to the moon ASAP 
+- 🌱 I’m currently self-learning everything since June of 2020 
 - 👯 I’m looking to collaborate with other developers to improve my skills
 - 🥅 2022 Goals: Land a developer related job with an awesome learning experience project
 - ⚡ Fun fact: I love to play guitar (not that funny though)
@@ -11,7 +10,6 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Cudi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="Cudi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Cudi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
@@ -21,7 +19,9 @@
 
 #### Currently Learning:
 
-* Everything below, plus Typescript and React Native
+* Everything below, plus:
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> Typescript
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> React Native
 
 ### Languages and Tools:
 
