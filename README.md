@@ -51,6 +51,8 @@ From here, sorry, no more fancy icons
 
 * Headless CMS like Strapi or Sanity
 
+* Wordpress
+
 * I also made some beginner projects with Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
 
 
