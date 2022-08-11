@@ -45,7 +45,7 @@ Everything below, plus:
 
 * Headless CMS like Strapi or Sanity
 
-* I also made some beginner projects with Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
+* I also made some beginner projects with Vue, Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
 
 
 
