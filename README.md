@@ -1,6 +1,6 @@
 ### Hi there, I'm Roger Codina - better known as Cudi 👋
 
-## I'm an aspiring Junior Web Developer (I think..), Father (that's 97% sure), Wellness Enthusiast, and even though I never play anything, a hardcore Gamer!!
+## I'm a Junior Web Developer (I think..), Father (that's 97% sure), Wellness Enthusiast, and even though I never play anything, a hardcore Gamer!!
 
 - 🌱 I’m currently self-learning everything since June of 2020 
 - 👯 I’m looking to collaborate with other developers to improve my skills
@@ -39,11 +39,9 @@ Everything below, plus:
 
 * <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /> Wordpress
 
-From here, sorry, no more fancy icons
-
 * NextJs
 
-* Material-UI
+* Material-UI / Tailwind
 
 * Headless CMS like Strapi or Sanity
 
