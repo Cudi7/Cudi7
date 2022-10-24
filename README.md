@@ -37,15 +37,17 @@
 
 * <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> React Native
 
-* <img width="26px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" /> NextJs
-
-
+* <img align="left" width="26px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" /> NextJs
 
 * Material-UI / Tailwind
 
 * Headless CMS like Strapi or Sanity
 
 * I also made some beginner projects with Vue, Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
+
+## Currently Learning
+
+Everything above + <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /> Jest
 
 
 
