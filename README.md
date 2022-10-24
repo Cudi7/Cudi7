@@ -23,7 +23,7 @@
 
 * <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> ES6+
 
-* <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React and Redux 
+* <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React w/Redux 
 
 * <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node w/Express
 
@@ -45,9 +45,12 @@
 
 * I also made some beginner projects with Vue, Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
 
-## Currently Learning
+### Currently Learning
 
-Everything above + <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /> Jest
+Everything above + 
+
+* <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /> Jest
+* <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" /> Figma
 
 
 
