@@ -1,6 +1,7 @@
 ### Hi there, I'm Roger Codina - better known as Cudi 👋
 
 ## I'm a Web Developer (I think..), Father (that's 97% sure), Wellness Enthusiast, and even though I never play anything, a hardcore Gamer!!
+<br />
 
 - 🌱 I’m currently self-learning everything since June of 2020 
 - 👯 I’m looking to collaborate with other developers to improve my skills
@@ -36,7 +37,9 @@
 
 * <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> React Native
 
-* NextJs
+* <img width="26px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" /> NextJs
+
+
 
 * Material-UI / Tailwind
 
