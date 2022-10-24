@@ -48,6 +48,8 @@
 
 * I also made some beginner projects with Vue, Java, PostgreSQL and MySQL a long time ago in a galaxy, far away...
 
+<br />
+
 ### Currently Learning
 
 Everything above + 
@@ -65,6 +67,7 @@ Everything above +
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cudi7&show_icons=true&theme=tokyonight)
 
+![Profile views](https://gpvc.arturio.dev/Cudi7)
 
 [twitter]: https://twitter.com/Cudi7r
 [linkedin]: https://www.linkedin.com/in/cudi7
