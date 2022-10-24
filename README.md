@@ -39,7 +39,10 @@
 
 * <img align="left" width="26px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" /> NextJs
 
-* Material-UI / Tailwind
+
+* <img align="left" width="26px" src="https://external-content.duckduckgo.com/ip3/mui.com.ico" alt="mui Icon" /> Material-UI 
+
+* <img align="left" width="26px" src="https://external-content.duckduckgo.com/ip3/tailwindcss.com.ico" alt="mui Icon" /> Tailwindcss
 
 * Headless CMS like Strapi or Sanity
 
@@ -50,6 +53,7 @@
 Everything above + 
 
 * <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /> Jest
+* <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" /> React Testing Library
 * <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" /> Figma
 
 
