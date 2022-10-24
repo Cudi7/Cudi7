@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I love to play guitar (not that funny though)
 
 <br />
-<br />
 
 
 ### Languages and Tools:
