@@ -53,7 +53,6 @@
 ### Currently Learning
 
 Everything above + 
-
 * <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /> Jest
 * <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" /> React Testing Library
 * <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" /> Figma
@@ -64,8 +63,10 @@ Everything above +
 <br />
 
 ---
-
+![Codewars](https://github.r2v.ch/codewars?user=Cudi7&stroke=red)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cudi7&show_icons=true&theme=tokyonight)
+
+<br />
 
 ![Profile views](https://gpvc.arturio.dev/Cudi7)
 
