@@ -1,6 +1,6 @@
-### Hi there, I'm Roger Codina - better known as Cudi 👋
+## Hi there, I'm Roger Codina - better known as Cudi 👋
 
-## I'm a 7/3 Full Stack Developer (70% Front 30% Back), Father (that's 97% sure), Wellness Enthusiast, Gym Rat, Reader, and even though I never play anything, a hardcore Gamer!!
+### I'm a 7/3 Full Stack Developer (70% Front 30% Back), Father (that's 97% sure), Wellness Enthusiast, Gym Rat, Reader, and even though I never play anything, a hardcore Gamer!!
 <br />
 
 - 🌱 I’m currently self-learning everything since June of 2020 
