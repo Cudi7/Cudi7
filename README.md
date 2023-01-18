@@ -87,7 +87,6 @@ Everything above +
 
 <br/>
 <br/>
-![Profile views](https://gpvc.arturio.dev/Cudi7)
 
 
 <br />
