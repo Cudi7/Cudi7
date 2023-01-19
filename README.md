@@ -17,18 +17,13 @@
 
 ### I'm a 7/3 Full Stack Developer (70% Front 30% Back), Father (that's 97% sure), Wellness Enthusiast, Gym Rat, Reader, and even though I never play anything, a hardcore Gamer!!
 <br />
-<br/>
 
 - 🌱 I’m currently self-learning everything since June of 2020 
 - 👯 I’m looking to collaborate with other developers to improve my skills
 - 🥅 2023 Goals: Land a developer related job with an awesome learning experience project
 - ⚡ Fun fact: I love to play guitar (not that funny though)
 
-
-<br />
 <br/>
-
-
 
 
 ## 💻 Tech Stack
@@ -97,7 +92,6 @@ Everything above +
 
 <br/>
 
-<br />
 <br />
 
 ![Codewars](https://github.r2v.ch/codewars?user=Cudi7&stroke=red)
