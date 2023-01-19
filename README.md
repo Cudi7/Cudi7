@@ -2,6 +2,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+<br/>
 <div align="center">
   <a href="https://www.instagram.com/roger4hill/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -16,7 +17,7 @@
 
 ### I'm a 7/3 Full Stack Developer (70% Front 30% Back), Father (that's 97% sure), Wellness Enthusiast, Gym Rat, Reader, and even though I never play anything, a hardcore Gamer!!
 <br />
-
+<br/>
 - 🌱 I’m currently self-learning everything since June of 2020 
 - 👯 I’m looking to collaborate with other developers to improve my skills
 - 🥅 2023 Goals: Land a developer related job with an awesome learning experience project
@@ -24,7 +25,7 @@
 
 
 <br />
-
+<br/>
 
 
 <div align="left">
