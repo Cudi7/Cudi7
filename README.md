@@ -80,6 +80,7 @@ Everything above +
 
 * <img width="26px" align="left" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" /> React Testing Library
 
+* <img width="26px" align="left" src="https://visioguy.github.io/IconSets/aws/icons/aws_cloud.png" alt="Testing Library Icon" /> AWS Certified Cloud Practitioner
 
 <br/>
 <br/>
