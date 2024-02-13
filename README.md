@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face" align="right" height="150"  />
 <br/>
 
-### I'm a 7/3 Full Stack Developer (70% Front 30% Back), a dedicated father, wellness enthusiast, gym rat, reader, and even though I never play anything, a hardcore Gamer!
+### I'm a 7/3 Full Stack Developer (70% Front 30% Back), a dedicated father, wellness enthusiast, gym rat, reader, and even though I never play anything, a hardcore gamer!
 
 <br />
 
 - 🌱 I’m currently self-learning everything since June of 2020.
-- 👯 Seeking passionate developers who share my enthusiasm for innovation and growth. Together, we can push the boundaries of what's possible.
+- 👯 Looking for passionate developers eager to innovate and join my team to explore new possibilities.
 - 🥅 2024 Goals: I'm on a mission to disrupt the status quo with my project.
 - ⚡ Fun fact: I love to play guitar (not that funny though).
 
