@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently self-learning everything since June of 2020.
 - 👯 Looking for passionate developers eager to innovate and join my team to explore new possibilities.
-- 🥅 2024 Goals: I'm on a mission to disrupt the status quo with <a href="https://pixelcow.app/">pixelcow.app</a>.
+- 🥅 2024 Goals: I'm on a mission to disrupt the status quo with <a href="https://pixelcow.app/">pixelcow.app</a>
 - ⚡ Fun fact: I love to play guitar (not that funny though).
 
 <br/>
