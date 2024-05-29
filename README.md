@@ -89,7 +89,7 @@
 <img src="https://randommeme-five.vercel.app/" align="center" style="height: 400px;">
 <br/>
 
-## 🧩 Code Challenges: Test Your Skills
+## 🧩 My Code Challenges: Test Your Skills
 <br/>
 
 ![Codewars](https://github.r2v.ch/codewars?user=Cudi7&stroke=%234CAF50)
