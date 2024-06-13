@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js"> 
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" alt="Solidity"> 
-  <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&amp;logo=strapi&amp;logoColor=white" alt="Strapi"> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
 </p>
 
