@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face" align="right" height="150"  />
 <br/>
 
-### I'm a 7/3 Full Stack Developer (70% Front 30% Back), wellness enthusiast, father, gym rat, reader, and even though I never play anything, a hardcore gamer!
+### I'm a 6/4 Full Stack Developer (60% Front 40% Back), wellness enthusiast, father, gym rat, reader, and even though I never play anything, a hardcore gamer!
 
 <br />
 
