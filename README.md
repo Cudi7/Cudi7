@@ -63,8 +63,7 @@
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&amp;logo=react%20query&amp;logoColor=white" alt="React Query"> 
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="React Router"> 
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&amp;logo=reacthookform&amp;logoColor=white" alt="React Hook Form"> 
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux"> 
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=white" alt="WordPress">  
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux">  
 </p>
 
 ### Tools & Utilities
@@ -73,11 +72,13 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira"> 
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&amp;logo=confluence&amp;logoColor=white" alt="Confluence"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=white" alt="WordPress"> 
 </p>
 
 ### Design
 <p>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"> 
+  <img src="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&amp;logo=webflow&amp;logoColor=white" alt="Webflow">
 </p>
 
 
