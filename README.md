@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"> 
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native"> 
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS"> 
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" alt="Vue.js"> 
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> 
   <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&amp;logo=bulma&amp;logoColor=white" alt="Bulma"> 
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&amp;logo=mui&amp;logoColor=white" alt="MUI"> 
@@ -38,8 +37,10 @@
 <p>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js"> 
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" alt="Solidity"> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/trpc-%23000000.svg?style=for-the-badge&amp;logo=trpc&amp;logoColor=white" alt="tRPC"> 
+  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma ORM"> 
+  <img src="https://img.shields.io/badge/drizzle-222222?style=for-the-badge&amp;logo=drizzle&amp;logoColor=white" alt="Drizzle ORM"> 
 </p>
 
 ### Database
@@ -64,6 +65,10 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="React Router"> 
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&amp;logo=reacthookform&amp;logoColor=white" alt="React Hook Form"> 
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux">  
+  <img src="https://img.shields.io/badge/nextauth.js-000000?style=for-the-badge&amp;logo=nextauth.js&amp;logoColor=white" alt="NextAuth.js"> 
+  <img src="https://img.shields.io/badge/radix_ui-222222?style=for-the-badge&amp;logo=radix_ui&amp;logoColor=white" alt="Radix UI"> 
+  <img src="https://img.shields.io/badge/shadcn--ui-000000?style=for-the-badge&amp;logo=shadcn--ui&amp;logoColor=white" alt="shadcn/ui">
+  <img src="https://img.shields.io/badge/zod-000000?style=for-the-badge&amp;logo=zod&amp;logoColor=white" alt="Zod"> 
 </p>
 
 ### Tools & Utilities
@@ -72,6 +77,11 @@
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&amp;logo=confluence&amp;logoColor=white" alt="Confluence"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=white" alt="WordPress"> 
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="GIT"> 
+  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest"> 
+  <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&amp;logo=cypress&amp;logoColor=white" alt="Cypress"> 
+  <img src="https://img.shields.io/badge/chrome%20extensions-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome Extensions"> 
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"> 
 </p>
 
 ### Design
@@ -79,6 +89,13 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"> 
   <img src="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&amp;logo=webflow&amp;logoColor=white" alt="Webflow">
 </p>
+
+### Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS Certified Cloud Practitioner"> 
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" alt="Solidity"> 
+</p>
+
 
 
 
