@@ -52,6 +52,12 @@
   <img src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
 </p>
 
+### Testing
+<p>
+  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest"> 
+  <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&amp;logo=cypress&amp;logoColor=white" alt="Cypress"> 
+</p>
+
 ### DevOps & Deployment
 <p>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&amp;logo=firebase" alt="Firebase"> 
@@ -78,8 +84,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=white" alt="WordPress"> 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="GIT"> 
-  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest"> 
-  <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&amp;logo=cypress&amp;logoColor=white" alt="Cypress"> 
   <img src="https://img.shields.io/badge/chrome%20extensions-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome Extensions"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"> 
 </p>
