@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face" align="right" height="150"  />
 <br/>
 
-### Not just another React/Node.js developer (but yeah, I am & I TypeScript too). Balancing 60% frontend, 40% backend, full-time wellness enthusiast, reader, and a hardcore gamer who rarely plays!
+### Not just another React/Node.js developer (but yeah, I am & I TypeScript too). Balancing 60% frontend, 40% backend, full-time wellness enthusiast, reader, and a lifelong learner.
 
 <br />
 
