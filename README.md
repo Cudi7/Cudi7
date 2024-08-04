@@ -56,7 +56,7 @@
 <p>
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest"> 
   <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&amp;logo=cypress&amp;logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/enzyme-00A3E0?style=for-the-badge&logo=react&logoColor=white" alt="Enzyme">
+  <img src="https://img.shields.io/badge/enzyme-00A3E0?style=for-the-badge&logo=enzymet&logoColor=white" alt="Enzyme">
 </p>
 
 ### DevOps & Deployment
