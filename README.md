@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js"> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/trpc-%23000000.svg?style=for-the-badge&amp;logo=trpc&amp;logoColor=white" alt="tRPC"> 
-  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma ORM"> 
-  <img src="https://img.shields.io/badge/drizzle-222222?style=for-the-badge&amp;logo=drizzle&amp;logoColor=white" alt="Drizzle ORM"> 
 </p>
 
 ### Database
@@ -50,6 +48,8 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&amp;logo=planetscale&amp;logoColor=white" alt="PlanetScale"> 
   <img src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma ORM"> 
+  <img src="https://img.shields.io/badge/drizzle-222222?style=for-the-badge&amp;logo=drizzle&amp;logoColor=white" alt="Drizzle ORM"> 
 </p>
 
 ### Testing
