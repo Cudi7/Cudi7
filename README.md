@@ -96,8 +96,6 @@
 ### Currently Learning
 <p>
   <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS Certified Cloud Practitioner"> 
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" alt="Solidity"> 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"> 
 </p>
 
 
