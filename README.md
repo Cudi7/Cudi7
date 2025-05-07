@@ -107,7 +107,7 @@
  ## 🎭 A Meme Break: Because All Work and No Play…
 <br/>
 
-<img src="https://i.ytimg.com/vi/Q1dg4bD1mHc/maxresdefault.jpg" align="center" style="height: 400px;">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NUSRQ-3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/5iphhycu0io11.png" align="center" style="height: 400px;">
 <br/>
 
 ## 🧩 My Code Challenges: Test Your Skills
