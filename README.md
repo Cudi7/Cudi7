@@ -8,8 +8,6 @@
 <br />
 
 - 🌱 I’m currently self-learning everything since June of 2020.
-- 👯 Looking for passionate developers eager to innovate and join my team to explore new possibilities.
-- 🥅 2026 Goals: I'm on a mission to disrupt the status quo with <a href="https://">🤫</a>
 
 <br/>
 
